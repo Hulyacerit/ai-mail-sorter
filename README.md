@@ -1,9 +1,5 @@
 # ai-mail-sorter
-Harika! Projenin GitHub'a yüklenmesinden önceki son ve en vizyoner adımı olan **README** dosyasına geldik. İyi bir README, projenin vitrinidir ve jüriye veya repoyu inceleyen diğer geliştiricilere projenin kalitesini gösterir.
 
-Projeyi tamamen yansıtan, Cursor ile geliştirildiğini vurgulayan, şık ve profesyonel bir Markdown şablonu hazırladım.
-
-Cursor'da `README.md` dosyasını açıp içindekileri silerek aşağıdaki metni tamamen kopyalayıp yapıştırabilirsin:
 
 ***
 
